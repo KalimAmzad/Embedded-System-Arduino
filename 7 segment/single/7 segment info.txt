@@ -1,0 +1,15 @@
+7 segment single:
+from: http://www.ardumotive.com/how-to-use-7-segment-display-en.html
+
+7_seg_pin - "display" - arduino_pin
+1 - "E" - Arduino pin 6
+2 - "D" - Arduino pin 7
+3 - "CC" - Arduino pin 4
+4 - "C" - Arduino pin 8
+5 - "DP" -
+6 - "B" - Arduino pin 9
+7 - "A" - Arduino pin 10
+8 - "CC" - Arduino pin 4
+9 - "F" - Arduino pin 11
+10 - "G" - Arduino pin 12
+
