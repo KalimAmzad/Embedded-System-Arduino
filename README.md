@@ -1,2 +1,2 @@
 # Embedded-System-Arduino
-Some work with Arduino Uno.
+Some of my work with Arduino Uno.
